@@ -1,4 +1,4 @@
-# Resumen del Curso de Criptografía y Seguridad en Redes
+# Criptografía y Seguridad en Redes
 
 ## 1. Necesidad de Seguridad
 

@@ -1,4 +1,4 @@
-## Resumen Sobre Cifrado Simétrico
+# Cifrado Simétrico
 
 ### ¿Qué es el Cifrado?
 

@@ -1,4 +1,4 @@
-## Resumen: Hashes Criptográficos
+# Hashes Criptográficos
 
 En la **seguridad de datos**, más allá del cifrado, a veces lo que se busca es simplemente **verificar** la integridad de los datos. Esta verificación se realiza utilizando un proceso llamado **"hashing"**.
 

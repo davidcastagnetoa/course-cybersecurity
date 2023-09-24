@@ -1,4 +1,4 @@
-## Resumen sobre Cifrado Asimétrico
+# Cifrado Asimétrico
 
 El cifrado simétrico presenta el desafío de que ambas partes deben tener una copia de la clave para descifrar datos. Esta transmisión de claves puede ser vulnerable. Para solucionar este problema, Rivest, Shamir y Adleman propusieron el cifrado asimétrico.
 
