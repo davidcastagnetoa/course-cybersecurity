@@ -98,5 +98,3 @@ Finalmente, inicia sesión en la cuenta de Sophie con la contraseña recién est
 **Nota:** Al conectarte a través de RDP, utiliza `THM\sophie` como nombre de usuario para especificar que deseas ingresar como Sophie en el dominio THM.
 
 > Este paso final te permitirá verificar que tienes acceso a la cuenta de Sophie y recuperar la información requerida.
-
-<!-- https://youtu.be/dwP4jpXdSp4?si=Z2dE6lvJtpSFfWFs&t=2053 -->
