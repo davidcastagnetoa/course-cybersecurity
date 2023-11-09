@@ -1,5 +1,7 @@
 # Microsoft Management Console (MMC) - Tu Panel de Control Personalizable
 
+[Link to the coruse](https://www.linkedin.com/learning-login/share?account=102947196&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fwindows-server-2022-manage-monitor-and-maintain-servers-15013535%3Ftrk%3Dshare_ent_url%26shareId%3DRtA%252BhKzUQ5GrgwhPTMdYMA%253D%253D)
+
 ## ¿Qué es MMC?
 
 Microsoft Management Console, o MMC, es una interfaz que te permite gestionar y monitorear varios aspectos de un sistema Windows. Funciona mediante la adición de "snap-ins", que son como mini-aplicaciones que puedes cargar en MMC para realizar tareas específicas.
@@ -43,12 +45,15 @@ MMC es como tu caja de herramientas para administrar servidores y sistemas. Pued
 ## Preguntas y Respuestas
 
 1. **¿Qué es MMC y para qué se usa?**
+
    - MMC (Microsoft Management Console) es una utilidad que permite gestionar y monitorear sistemas Windows. Se usa para centralizar diversas tareas administrativas mediante la adición de "snap-ins".
-  
+
 2. **¿Cómo se accede a MMC en versiones más recientes de Windows?**
+
    - En versiones más recientes de Windows, la forma más sencilla de acceder a MMC es a través del símbolo del sistema (Command Prompt) escribiendo `MMC`.
 
 3. **¿Se pueden guardar las configuraciones en MMC?**
+
    - Sí, puedes guardar tu configuración MMC para no tener que volver a agregar los mismos snap-ins cada vez que lo abras.
 
 4. **¿Es posible gestionar sistemas remotos con MMC?**
